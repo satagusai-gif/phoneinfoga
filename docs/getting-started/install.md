@@ -1,3 +1,4 @@
+scan number 6301015407
 To install PhoneInfoga, you'll need to download the binary or build the software from its source code.
 
 !!! info
